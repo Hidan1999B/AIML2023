@@ -1,1 +1,1 @@
-# AI/ML Course at CBS 2023
+# AI/ML Course at CBS 2023 group project with Ramazan 
